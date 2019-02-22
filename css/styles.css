@@ -1,0 +1,234 @@
+
+body
+{
+  margin:  0;
+  text-align: center;
+font-family: 'Comfortaa', cursive;
+color: #40514E;
+
+}
+
+
+h1
+{
+  margin: 50px auto 0 auto;
+  color:  #66BFBF;
+  font-size: 5.625rem;
+font-family: 'Sue Ellen Francisco', cursive;
+
+}
+h2
+{
+      color:  #66BFBF;
+      font-size: 2.5rem;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: normal;
+      padding-bottom: 10px;
+}
+h3
+{
+color: #11999E;
+font-family: 'Montserrat', sans-serif;
+}
+p
+{
+line-height: 2;
+
+}
+hr
+{
+  background-color:white;
+    border-style: dotted none none;
+    border-color: grey ;
+    border-width: 6px;
+    width: 5%;
+    margin: 100px auto;
+}
+
+
+/******************************class Selector*******************/
+
+
+
+.top-container
+{
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container
+{
+line-height: 2;
+margin: 100px 0;
+
+}
+
+.bottom-container
+{
+background-color: #66BFBF;
+padding-top: 50px;
+padding-bottom: 20px;
+line-height: 2;
+}
+.underline
+{
+  text-decoration: underline;
+}
+.Tc
+{
+  height: 23%;
+  width: 19%;
+position:absolute ;
+right: 14%;
+top:   7%;
+
+}
+.copyright
+{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+.Bc
+{
+  height: 23%;
+  width: 19%;
+  position: absolute;
+  left:  14%;
+  top: 40% ;
+}
+
+
+.Coding
+{
+  height: 25%;
+  width:  25%;
+  border-radius: 50%;
+  float:left;
+  margin-right:  30px;
+}
+
+.WD
+{
+  height: 25%;
+  width:  25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.Cooking
+{
+  height: 25%;
+  width:  25%;
+  border-radius: 50%;
+  float:left;
+  margin-right:  30px;
+}
+.messi
+{
+
+  height: 25%;
+  width:  25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+
+}
+.dp
+{
+  height: 150px;
+  width:  150px;
+  border-radius: 50%;
+
+}
+
+.footer-link
+{
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+
+}
+.footer-link:hover
+{
+  color: #EAF6F6;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+
+.contact-me
+{
+  margin: 100px auto 100px auto;
+}
+
+.contact
+{
+  width:   40%;
+  margin: 40px auto 60px;
+}
+
+.butn {
+
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+
+  color: #ffffff;
+  font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.hori
+{
+  position: relative;
+  left: 0%;
+  border-width: 7px;
+  width: 5%;
+}
+.instagram
+{
+  height: 100px;
+  width: 100px;
+  background-color: #66BFBF;
+}
+.linkedin
+{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #66BFBF;
+}
